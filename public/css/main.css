@@ -40,6 +40,8 @@ img {
   background-color: #026cb6;
   width:100%;
   text-align: center;
+  padding-left: .5em;
+  padding-right: .5em;
 }
 .slideshow.wide .slide__header{
 	position: absolute;
@@ -48,6 +50,7 @@ img {
   margin-top: 9%;
   text-align: left;
   min-width: 20%;
+  padding-left: 0;
   padding-right: 1em;
   min-height: 5em;
   overflow:hidden;
